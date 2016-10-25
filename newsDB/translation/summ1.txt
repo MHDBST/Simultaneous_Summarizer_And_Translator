@@ -1,0 +1,518 @@
+Translating: ---------------Save on gas : 5 ways to make your car more fuel-efficient--------------- 
+
+Collecting options took 0.177 seconds
+Search took 0.409 seconds
+BEST TRANSLATION: ---------------Save|UNK|UNK|UNK روی گاز : پنج راه برای شما fuel-efficient---------------|UNK|UNK|UNK بیشتر ماشین [111111111111]  [total=-203.699] <<-6.000, -11.000, -200.000, -3.659, -3.709, 0.000, -1.470, -2.314, -0.167, -75.282, -15.705, -24.205, -9.061, -15.832, 5.999>> 
+Translation took 0.410 seconds
+Finished translating
+Translating: 2014 Fuel Consumption Guide ( Natural Resources Canada ) . 
+
+Collecting options took 0.041 seconds
+Search took 0.207 seconds
+BEST TRANSLATION: سال 2014 راهنمای مصرف سوخت ( منابع طبیعی , کانادا ) . [1111111111]  [total=-3.231] <<-8.000, -12.000, 0.000, -0.825, -1.827, -1.236, -2.187, -3.243, -0.919, -75.273, -16.736, -23.542, -7.130, -10.848, 6.999>> 
+Translation took 0.208 seconds
+Finished translating
+Translating: ( Note : CBC does not endorse and is not responsible for the content of external links . ) . 
+
+Collecting options took 0.128 seconds
+Search took 0.698 seconds
+BEST TRANSLATION: ( توجه داشته باشید : CBC تایید نمی کند و مسیول محتوای لینک های خارجی . ) . [11111111111111111111]  [total=-4.612] <<-4.000, -18.000, 0.000, -7.470, -0.351, -0.410, -4.314, -0.476, -1.028, -109.730, -21.691, -41.537, -9.025, -23.064, 11.999>> 
+Translation took 0.700 seconds
+Finished translating
+Translating: Does your car get the gas mileage that you think it should ? For many of us , the answer is No. 
+
+Collecting options took 0.543 seconds
+Search took 1.193 seconds
+BEST TRANSLATION: ایا ماشین شما مصرف گاز را که شما فکر می کنید باید ? برای بسیاری از ما , پاسخ این است نه . [1111111111111111111111]  [total=-5.740] <<-10.000, -23.000, 0.000, -5.170, -1.734, -1.093, -5.395, -1.303, -0.661, -115.627, -41.774, -55.755, -22.667, -37.587, 13.999>> 
+Translation took 1.196 seconds
+Finished translating
+Translating: CBC's Marketplace investigated fuel ratings and what dealers tell you about them when you buy a car . 
+
+Collecting options took 0.189 seconds
+Search took 0.608 seconds
+BEST TRANSLATION: CBC's|UNK|UNK|UNK بازار سوخت مورد بررسی قرار گرفت و فروشندگان به شما بگویم که در مورد انها وقتی که شما یک ماشین خرید . [111111111111111111]  [total=-105.409] <<-18.000, -23.000, -100.000, -2.875, -6.159, -2.981, -4.331, -3.011, -4.226, -100.306, -41.111, -46.131, -25.920, -35.070, 12.999>> 
+Translation took 0.611 seconds
+Finished translating
+Translating: Marketplace heard a lot of complaints from drivers who bought vehicles based on fuel-efficiency ratings , but felt their cars didn't live up to those promises . 
+
+Collecting options took 0.429 seconds
+Search took 1.105 seconds
+BEST TRANSLATION: بازار که بسیاری از شکایت از رانندگان وسایل نقلیه را که بر اساس fuel-efficiency|UNK|UNK|UNK رتبه بندی اتومبیل خود را احساس کرد , اما نه به ان وعده ها زندگی می کنند . [111111111111111111111111111]  [total=-108.231] <<-30.000, -32.000, -100.000, -7.012, -7.476, -2.968, -5.713, -5.800, -3.655, -138.713, -61.619, -79.091, -37.625, -52.863, 18.998>> 
+Translation took 1.110 seconds
+Finished translating
+Translating: If you think you're spending too much on gas , there are things you can do to make your car use fuel more efficiently . 
+
+Collecting options took 0.399 seconds
+Search took 1.268 seconds
+BEST TRANSLATION: اگر فکر می کنید که بیش از حد در گاز , چیزهایی وجود دارند که می توانید انجام دهید تا ماشین بیشتر سوخت استفاده می کنند . [1111111111111111111111111]  [total=-6.046] <<-8.000, -27.000, 0.000, -7.109, -2.864, -1.123, -8.715, -3.365, -0.756, -105.369, -39.002, -68.164, -21.518, -63.940, 12.999>> 
+Translation took 1.272 seconds
+Finished translating
+Translating: ( CBC 
+
+Collecting options took 0.005 seconds
+Search took 0.005 seconds
+BEST TRANSLATION: ( CBC [11]  [total=-0.870] <<0.000, -2.000, 0.000, -1.280, 0.000, 0.000, -0.241, 0.000, 0.000, -23.841, -1.518, -1.155, -0.975, -1.094, 2.000>> 
+Translation took 0.005 seconds
+Finished translating
+Translating: ‌ 
+
+Collecting options took 0.003 seconds
+Search took 0.003 seconds
+BEST TRANSLATION: - [1]  [total=-1.022] <<0.000, -1.000, 0.000, -1.946, 0.000, 0.000, 0.000, 0.000, 0.000, -11.832, -9.778, -9.951, -1.386, -1.705, 1.000>> 
+Translation took 0.003 seconds
+Finished translating
+Translating: When you don't have updated [ fuel 
+
+Collecting options took 0.065 seconds
+Search took 0.189 seconds
+BEST TRANSLATION: هنگامی که شما را به [ سوخت [1111111]  [total=-2.668] <<0.000, -7.000, 0.000, -3.956, 0.000, 0.000, -4.301, 0.000, 0.000, -37.778, -24.532, -26.334, -12.617, -11.181, 4.999>> 
+Translation took 0.190 seconds
+Finished translating
+Translating: tests , like we've had in Canada for the past seven or eight years , you can't go by those numbers , " automotive journalist Michael 
+
+Collecting options took 0.789 seconds
+Search took 1.663 seconds
+BEST TRANSLATION: تست , مثل ما در کانادا برای هفت یا هشت سال گذشته , شما نمی توانید با این ارقام , و روزنامه نگار خودرو " مایکل [11111111111111111111111111]  [total=-6.304] <<-18.000, -26.000, 0.000, -6.725, -4.194, -2.560, -5.529, -3.365, -3.834, -135.446, -44.926, -50.489, -21.858, -34.144, 16.998>> 
+Translation took 1.668 seconds
+Finished translating
+Translating: Bettencourt 
+
+Collecting options took 0.005 seconds
+Search took 0.005 seconds
+BEST TRANSLATION: بتانکورت [1]  [total=-0.799] <<0.000, -1.000, 0.000, -0.111, 0.000, 0.000, 0.000, 0.000, 0.000, -18.530, -0.560, -0.934, -0.560, -1.003, 1.000>> 
+Translation took 0.005 seconds
+Finished translating
+Translating: told Marketplace co-host Tom Harrington 
+
+Collecting options took 0.029 seconds
+Search took 0.047 seconds
+BEST TRANSLATION: به بازار همکار مجری تام هرینگتن [11111]  [total=-3.012] <<0.000, -6.000, 0.000, -2.846, 0.000, 0.000, -3.130, 0.000, 0.000, -58.033, -15.186, -19.377, -5.058, -7.400, 4.999>> 
+Translation took 0.047 seconds
+Finished translating
+Translating: " When you're actively advertising these numbers as a selling feature , then I think consumers have some reason to be mad . " . 
+
+Collecting options took 0.640 seconds
+Search took 1.384 seconds
+BEST TRANSLATION: " هنگامی که شما بطورکاری تبلیغات این تعداد به عنوان یک ویژگی فروش , من فکر می کنم که مصرف کنندگان به دیوانه است . " . [1111111111111111111111111]  [total=-6.233] <<-4.000, -27.000, 0.000, -10.981, -1.995, -0.699, -9.876, -0.886, -1.299, -119.685, -47.598, -62.761, -28.527, -45.281, 14.998>> 
+Translation took 1.388 seconds
+Finished translating
+Translating: Watch the investigation , Fuel Proof , Nov. 
+
+Collecting options took 0.036 seconds
+Search took 0.169 seconds
+BEST TRANSLATION: قیاقه‌ی تحقیقات , سوخت . [11111111]  [total=-3.266] <<-6.000, -5.000, 0.000, -0.847, -0.361, -0.485, -1.609, -1.946, -1.511, -30.791, -37.194, -36.375, -12.291, -12.467, 4.999>> 
+Translation took 0.169 seconds
+Finished translating
+Translating: 14 at 8 pm. 
+
+Collecting options took 0.015 seconds
+Search took 0.038 seconds
+BEST TRANSLATION: 14 ساعت 8 بعد از ظهر [1111]  [total=-1.002] <<0.000, -6.000, 0.000, -3.471, 0.000, 0.000, -1.129, 0.000, 0.000, -25.290, -9.111, -11.239, -2.600, -11.737, 3.000>> 
+Translation took 0.038 seconds
+Finished translating
+Translating: ( 8:30 pm. 
+
+Collecting options took 0.004 seconds
+Search took 0.008 seconds
+BEST TRANSLATION: ( 8:30 بعد از ظهر [111]  [total=-1.232] <<0.000, -5.000, 0.000, -1.617, 0.000, 0.000, -1.088, 0.000, 0.000, -30.580, -8.462, -9.292, -3.144, -8.207, 3.000>> 
+Translation took 0.008 seconds
+Finished translating
+Translating: in Newfoundland and Labrador ) on CBC Television or online at cbcca / marketplace . 
+
+Collecting options took 0.039 seconds
+Search took 0.232 seconds
+BEST TRANSLATION: در نیوفاوندلند و لابرادور CBC ) در تلویزیون یا به صورت انلاین در cbcca|UNK|UNK|UNK / بازار . [111111111111111]  [total=-105.034] <<-6.000, -17.000, -100.000, -7.952, -4.078, -1.597, -5.698, -1.946, -0.918, -118.796, -15.668, -19.384, -11.874, -17.686, 10.999>> 
+Translation took 0.234 seconds
+Finished translating
+Translating: Share your tips about saving on gas on Twitter using the hashtag # fuel 
+
+Collecting options took 0.051 seconds
+Search took 0.333 seconds
+BEST TRANSLATION: خود را با ما به اشتراک بگذارید نکاتی را در مورد صرفه جویی در گاز در توییتر با استفاده از برچسب # سوخت [11111111111111]  [total=-4.713] <<0.000, -23.000, 0.000, -8.903, 0.000, 0.000, -10.278, 0.000, 0.000, -110.228, -15.158, -37.632, -8.461, -48.819, 8.999>> 
+Translation took 0.334 seconds
+Finished translating
+Translating: According to Natural Resources Canada , " your vehicle's fuel consumption will vary from its published fuel consumption ratings , depending on how , where and when you drive . " . 
+
+Collecting options took 0.165 seconds
+Search took 1.163 seconds
+BEST TRANSLATION: به گفته منابع طبیعی , کانادا , " مصرف سوخت خودرو شما متفاوت خواهد بود که از ان منتشر شده , بسته به میزان مصرف سوخت چگونه , کجا و زمانی که شما . " . [11111111111111111111111111111111]  [total=-7.453] <<-24.000, -36.000, 0.000, -10.773, -3.949, -1.680, -7.307, -5.700, -2.407, -159.069, -49.548, -70.798, -31.785, -50.920, 18.998>> 
+Translation took 1.169 seconds
+Finished translating
+Translating: But even if you're stuck with a car that doesn't give you the mileage you think you should get , there things you can do to lower what you pay at the pumps . 
+
+Collecting options took 0.230 seconds
+Search took 1.420 seconds
+BEST TRANSLATION: اما حتی اگر تو درگیر با یک ماشین که به شما نمی دهد شما فکر می کنید باید , چیزهایی که شما می توانید انجام دهید تا چیزی که شما در پرداخت . [1111111111111111111111111111111111]  [total=-8.858] <<-12.000, -33.000, 0.000, -8.966, -3.350, -1.512, -10.446, -5.153, -2.501, -142.579, -80.355, -98.555, -36.604, -68.921, 19.998>> 
+Translation took 1.427 seconds
+Finished translating
+Translating: Jim Davidson , author of 75 Ways to Save Gas : Clean , Green Tips to Cut Your Fuel Bill , weighed in on what you can do to to maximize your car's fuel efficiency . 
+
+Collecting options took 0.119 seconds
+Search took 1.065 seconds
+BEST TRANSLATION: جیم داویدسن , نویسنده ی 75 راه برای ذخیره گاز : تمیز گرین نکاتی برای کاهش وزن , بیل سوخت شما در چه کار می توانید انجام دهید تا حداکثر بازدهی سوخت اتومبیل . [111111111111111111111111111111111111]  [total=-10.874] <<-24.000, -34.000, 0.000, -9.506, -9.395, -1.256, -10.588, -10.900, -2.943, -202.857, -87.540, -88.955, -32.529, -57.706, 25.997>> 
+Translation took 1.071 seconds
+Finished translating
+Translating: " Some tips are really little and tiny , but if you bundle five or six of them together , it's significant , " Davidson says . 
+
+Collecting options took 0.261 seconds
+Search took 1.178 seconds
+BEST TRANSLATION: " برخی از نکات کوچک و کوچک است , اما اگر شما بسته پنج یا شش نفر از انها با هم , قابل توجه است , " داویدسن می گوید . [111111111111111111111111111]  [total=-5.602] <<-16.000, -31.000, 0.000, -7.859, -3.751, -2.127, -9.839, -3.926, -2.025, -126.754, -43.704, -51.588, -34.423, -44.055, 18.998>> 
+Translation took 1.182 seconds
+Finished translating
+Translating: " But some tips are major game changers . 
+
+Collecting options took 0.036 seconds
+Search took 0.216 seconds
+BEST TRANSLATION: " اما برخی نکات changers|UNK|UNK|UNK بازی اصلی هستند . [111111111]  [total=-101.949] <<-12.000, -9.000, -100.000, -2.204, -4.302, -0.225, -1.591, -3.242, -0.965, -50.605, -10.583, -10.741, -9.393, -9.851, 7.999>> 
+Translation took 0.217 seconds
+Finished translating
+Translating: You can chop your fuel bill by probably 50 per cent " . 
+
+Collecting options took 0.088 seconds
+Search took 0.387 seconds
+BEST TRANSLATION: شما می توانید با لایحه سوخت شما ریزریزکردن احتمالا 50 درصد " . [1111111111111]  [total=-3.636] <<-16.000, -13.000, 0.000, -2.992, -6.958, -0.623, -2.471, -6.936, -1.912, -75.643, -15.150, -20.645, -14.491, -20.997, 10.999>> 
+Translation took 0.389 seconds
+Finished translating
+Translating: Here are five ways to save on fuel . 
+
+Collecting options took 0.039 seconds
+Search took 0.263 seconds
+BEST TRANSLATION: در اینجا پنج راه برای صرفه جویی در سوخت . [111111111]  [total=-1.261] <<0.000, -10.000, 0.000, -3.475, 0.000, 0.000, -2.780, 0.000, 0.000, -36.607, -9.047, -21.150, -4.458, -17.232, 4.999>> 
+Translation took 0.264 seconds
+Finished translating
+Translating: 1 
+
+Collecting options took 0.002 seconds
+Search took 0.002 seconds
+BEST TRANSLATION: 1 [1]  [total=-0.404] <<0.000, -1.000, 0.000, -0.324, 0.000, 0.000, 0.000, 0.000, 0.000, -11.773, -0.534, -0.532, -0.557, -0.661, 1.000>> 
+Translation took 0.002 seconds
+Finished translating
+Translating: Cool it on the defroster 
+
+Collecting options took 0.020 seconds
+Search took 0.064 seconds
+BEST TRANSLATION: ان چه در defroster|UNK|UNK|UNK [11111]  [total=-101.810] <<-4.000, -4.000, -100.000, 0.000, -1.609, -0.957, -0.817, -1.563, -0.511, -22.674, -17.814, -16.310, -7.594, -6.113, 3.000>> 
+Translation took 0.064 seconds
+Finished translating
+Translating: A lot of people know not to run their air conditioner non-stop in the summer . 
+
+Collecting options took 0.218 seconds
+Search took 0.650 seconds
+BEST TRANSLATION: بسیاری از مردم نمی دانید به تهویه مطبوع بدون توقف در تابستان می باشد . [1111111111111111]  [total=-3.881] <<0.000, -15.000, 0.000, -5.812, 0.000, 0.000, -5.519, 0.000, 0.000, -67.414, -30.868, -44.508, -13.722, -32.786, 7.999>> 
+Translation took 0.653 seconds
+Finished translating
+Translating: But what about your defroster ? 
+
+Collecting options took 0.023 seconds
+Search took 0.105 seconds
+BEST TRANSLATION: اما انچه که در مورد defroster|UNK|UNK|UNK ? [111111]  [total=-101.145] <<0.000, -7.000, -100.000, -2.281, 0.000, 0.000, -2.792, 0.000, 0.000, -28.272, -11.347, -12.699, -8.482, -9.108, 4.000>> 
+Translation took 0.106 seconds
+Finished translating
+Translating: " What many people don't realize is that your defroster is the same system , " Davidson says . 
+
+Collecting options took 0.127 seconds
+Search took 0.661 seconds
+BEST TRANSLATION: " چیزی که بسیاری از مردم نمی دانند این است که defroster|UNK|UNK|UNK شما همان سیستم , " داویدسن می گوید . [1111111111111111111]  [total=-102.842] <<-4.000, -21.000, -100.000, -5.632, -0.361, -0.368, -5.751, 0.000, -0.809, -82.258, -17.181, -29.942, -17.433, -35.323, 10.999>> 
+Translation took 0.664 seconds
+Finished translating
+Translating: " But people turn it on and leave it on all winter " . 
+
+Collecting options took 0.208 seconds
+Search took 0.595 seconds
+BEST TRANSLATION: " اما مردم در این و ان را در تمام زمستان " . [11111111111111]  [total=-3.004] <<-6.000, -13.000, 0.000, -5.214, -0.847, -0.590, -4.311, -3.254, -0.614, -58.689, -29.588, -32.636, -14.219, -16.173, 8.999>> 
+Translation took 0.597 seconds
+Finished translating
+Translating: Davidson says that the effect on your gas bill could leave you feeling cold : It can be eating up to 25 per cert of your fuel . 
+
+Collecting options took 0.190 seconds
+Search took 0.932 seconds
+BEST TRANSLATION: داویدسن می گوید که تاثیر بر روی لایحه ی گاز شما می تواند به شما احساس سرما : این می تواند خوردن تا 25 درصد از سوخت می‌کردیم حتما تو ارشد میشی . [1111111111111111111111111111]  [total=-9.599] <<-16.000, -33.000, 0.000, -7.803, -1.566, -2.085, -9.977, -1.133, -2.343, -188.350, -44.359, -65.007, -32.954, -61.765, 18.998>> 
+Translation took 0.937 seconds
+Finished translating
+Translating: So when should you turn it on ? . 
+
+Collecting options took 0.046 seconds
+Search took 0.278 seconds
+BEST TRANSLATION: بنابراین وقتی نوبت شما باید ان را روی ? . [111111111]  [total=-2.139] <<-8.000, -10.000, 0.000, -2.752, -5.669, -0.395, -0.495, -1.976, -0.915, -50.656, -9.988, -10.651, -12.600, -16.686, 6.999>> 
+Translation took 0.279 seconds
+Finished translating
+Translating: " Only when you can't see , " Davidson says . 
+
+Collecting options took 0.075 seconds
+Search took 0.370 seconds
+BEST TRANSLATION: " تنها زمانی که شما نمی توانید ببینید , " داویدسن می گوید . [11111111111]  [total=-1.754] <<0.000, -14.000, 0.000, -6.194, 0.000, 0.000, -5.315, 0.000, 0.000, -57.857, -4.903, -13.802, -10.374, -24.825, 7.999>> 
+Translation took 0.372 seconds
+Finished translating
+Translating: 2 
+
+Collecting options took 0.002 seconds
+Search took 0.003 seconds
+BEST TRANSLATION: 2 [1]  [total=-0.399] <<0.000, -1.000, 0.000, -0.286, 0.000, 0.000, 0.000, 0.000, 0.000, -11.872, -0.557, -0.534, -0.497, -0.535, 1.000>> 
+Translation took 0.003 seconds
+Finished translating
+Translating: Take your tires seriously 
+
+Collecting options took 0.018 seconds
+Search took 0.048 seconds
+BEST TRANSLATION: به طور جدی لاستیک کنید [1111]  [total=-2.403] <<-8.000, -5.000, 0.000, 0.000, -2.849, -0.249, 0.000, -2.838, 0.000, -35.311, -11.643, -14.654, -7.589, -13.220, 3.000>> 
+Translation took 0.048 seconds
+Finished translating
+Translating: " Imagine riding a bike with a flat tire , how hard that is . 
+
+Collecting options took 0.093 seconds
+Search took 0.484 seconds
+BEST TRANSLATION: " تصور کنید یک دوچرخه سواری با یک پنچر شد , چقدر سخت است . [111111111111111]  [total=-3.388] <<-6.000, -15.000, 0.000, -4.773, -1.438, -0.973, -4.026, -2.197, -1.383, -72.809, -21.551, -26.241, -14.946, -27.338, 9.999>> 
+Translation took 0.486 seconds
+Finished translating
+Translating: You can't do it , you get so exhausted , " says Davidson 
+
+Collecting options took 0.204 seconds
+Search took 0.643 seconds
+BEST TRANSLATION: شما نمی توانید این کار را انجام می دهند , شما انقدر خسته شده است , می گوید : " داویدسن [1111111111111]  [total=-2.960] <<0.000, -21.000, 0.000, -4.618, 0.000, 0.000, -5.486, 0.000, 0.000, -65.996, -14.110, -26.132, -21.716, -53.651, 5.999>> 
+Translation took 0.644 seconds
+Finished translating
+Translating: According to Natural Resources Canada , ' your vehicle's fuel consumption will vary from its published fuel consumption ratings , depending on how , where and when you drive . ' ( CBC ) . 
+
+Collecting options took 0.236 seconds
+Search took 1.300 seconds
+BEST TRANSLATION: به گفته منابع طبیعی , کانادا , مصرف سوخت خودرو از این منتشر شده , بسته به میزان مصرف سوخت چگونه , کجا و زمانی که شما . " ( CBC ) . [11111111111111111111111111111111111]  [total=-8.471] <<-24.000, -33.000, 0.000, -9.938, -4.888, -2.274, -7.369, -1.729, -1.967, -153.778, -74.594, -99.417, -27.493, -44.120, 19.998>> 
+Translation took 1.305 seconds
+Finished translating
+Translating: ‌ 
+
+Collecting options took 0.003 seconds
+Search took 0.003 seconds
+BEST TRANSLATION: - [1]  [total=-1.022] <<0.000, -1.000, 0.000, -1.946, 0.000, 0.000, 0.000, 0.000, 0.000, -11.832, -9.778, -9.951, -1.386, -1.705, 1.000>> 
+Translation took 0.003 seconds
+Finished translating
+Translating: He says that with cars running on underinflated 
+
+Collecting options took 0.138 seconds
+Search took 0.304 seconds
+BEST TRANSLATION: او می گوید که با اتومبیل به underinflated|UNK|UNK|UNK [11111111]  [total=-101.656] <<0.000, -8.000, -100.000, -3.159, 0.000, 0.000, -4.777, 0.000, 0.000, -33.385, -19.963, -21.037, -6.232, -10.030, 4.000>> 
+Translation took 0.305 seconds
+Finished translating
+Translating: tires , the experience is the same 
+
+Collecting options took 0.031 seconds
+Search took 0.178 seconds
+BEST TRANSLATION: لاستیک , تجربه است [1111111]  [total=-2.058] <<0.000, -4.000, 0.000, -2.347, 0.000, 0.000, -1.509, 0.000, 0.000, -33.353, -15.421, -16.479, -6.025, -4.632, 3.000>> 
+Translation took 0.179 seconds
+Finished translating
+Translating: The engine is trying to force through all that extra drag , which is just wasting your fuel " . 
+
+Collecting options took 0.157 seconds
+Search took 0.647 seconds
+BEST TRANSLATION: موتور در تلاش است تا از طریق ان , اضافی است که فقط هدر دادن سوخت شما . " [11111111111111111111]  [total=-5.568] <<-14.000, -19.000, 0.000, -4.761, -1.821, -1.967, -4.131, -3.866, -1.941, -92.174, -56.358, -52.968, -26.903, -29.544, 13.999>> 
+Translation took 0.649 seconds
+Finished translating
+Translating: Davidson says surprisingly common for drivers to be on the road with at least one that needs some air , especially with cars that are more than a few years old . 
+
+Collecting options took 0.335 seconds
+Search took 1.432 seconds
+BEST TRANSLATION: داویدسن می گوید به طور شگفت اوری مشترک برای رانندگان در جاده با حداقل یک که نیاز به برخی از هوا , به خصوص با اتومبیل هستند که بیش از چند سال قدمت دارد . [11111111111111111111111111111111]  [total=-6.985] <<0.000, -35.000, 0.000, -14.457, 0.000, 0.000, -15.554, 0.000, 0.000, -156.604, -43.796, -54.829, -41.475, -66.314, 20.998>> 
+Translation took 1.438 seconds
+Finished translating
+Translating: But with proper inflation , Davidson says the savings can be substantial . 
+
+Collecting options took 0.047 seconds
+Search took 0.333 seconds
+BEST TRANSLATION: اما با تورم , داویدسن می گوید پس انداز می تواند قابل توجه باشد . [1111111111111]  [total=-2.724] <<0.000, -15.000, 0.000, -6.288, 0.000, 0.000, -5.034, 0.000, 0.000, -67.067, -22.211, -29.584, -11.321, -22.327, 7.999>> 
+Translation took 0.335 seconds
+Finished translating
+Translating: His advice : Check the tires once a month . 
+
+Collecting options took 0.080 seconds
+Search took 0.309 seconds
+BEST TRANSLATION: توصیه او : بررسی لاستیک ماه یک بار . [1111111111]  [total=-3.326] <<-10.000, -9.000, 0.000, -0.336, -0.432, -1.881, -0.511, -1.814, -1.140, -59.099, -20.018, -24.172, -10.651, -12.748, 6.999>> 
+Translation took 0.310 seconds
+Finished translating
+Translating: Davidson recommends buying a higher-grade tire gauge to get a more accurate reading 
+
+Collecting options took 0.047 seconds
+Search took 0.281 seconds
+BEST TRANSLATION: داویدسن توصیه می کند که خرید یک higher-grade|UNK|UNK|UNK تایر به اندازه یک مطالعه دقیق تر [1111111111111]  [total=-104.729] <<-9.000, -15.000, -100.000, -4.479, -2.362, -1.560, -2.871, -4.547, -2.731, -83.704, -27.312, -31.213, -17.845, -25.420, 8.999>> 
+Translation took 0.282 seconds
+Finished translating
+Translating: 3 
+
+Collecting options took 0.012 seconds
+Search took 0.012 seconds
+BEST TRANSLATION: 3 [1]  [total=-0.429] <<0.000, -1.000, 0.000, -0.334, 0.000, 0.000, 0.000, 0.000, 0.000, -12.300, -0.615, -0.600, -0.498, -0.523, 1.000>> 
+Translation took 0.012 seconds
+Finished translating
+Translating: Your car doesn't need long to warm up 
+
+Collecting options took 0.065 seconds
+Search took 0.211 seconds
+BEST TRANSLATION: ماشین شما نیازی به گرم [11111111]  [total=-3.192] <<-4.000, -5.000, 0.000, -3.393, -0.167, -1.216, -2.882, -0.931, -0.076, -40.383, -27.919, -25.592, -8.096, -8.712, 4.999>> 
+Translation took 0.212 seconds
+Finished translating
+Translating: Idling is a huge fuel waster , and it's the biggest problem when the weather gets cold . 
+
+Collecting options took 0.124 seconds
+Search took 0.560 seconds
+BEST TRANSLATION: Idling|UNK|UNK|UNK بزرگی است , مصرف سوخت و بزرگترین مشکل اب و هوای سرد می شود . [111111111111111111]  [total=-103.871] <<-8.000, -16.000, -100.000, -4.799, -3.247, -1.086, -4.518, -5.445, -1.129, -69.378, -31.670, -46.693, -12.610, -21.684, 8.999>> 
+Translation took 0.562 seconds
+Finished translating
+Translating: For consumers frustrated by how much they spend at the pumps , there are ways to make your car operate more efficiently and use less gas . 
+
+Collecting options took 0.105 seconds
+Search took 0.953 seconds
+BEST TRANSLATION: برای مصرف کنندگان به انها چقدر خرج کردن در پمپ ها , راه هایی برای شما ماشین بیشتر موثر و استفاده از گاز کمتر . [111111111111111111111111111]  [total=-8.249] <<-4.000, -25.000, 0.000, -11.352, -1.788, -0.999, -13.548, -0.792, -1.425, -132.462, -59.442, -83.035, -25.491, -44.335, 15.998>> 
+Translation took 0.957 seconds
+Finished translating
+Translating: ( CBC 
+
+Collecting options took 0.004 seconds
+Search took 0.004 seconds
+BEST TRANSLATION: ( CBC [11]  [total=-0.870] <<0.000, -2.000, 0.000, -1.280, 0.000, 0.000, -0.241, 0.000, 0.000, -23.841, -1.518, -1.155, -0.975, -1.094, 2.000>> 
+Translation took 0.004 seconds
+Finished translating
+Translating: If you're spending a few minutes warming up your car in the morning , you're doing it wrong , says Davidson . 
+
+Collecting options took 0.121 seconds
+Search took 0.794 seconds
+BEST TRANSLATION: اگر شما یک چند دقیقه گرم شدن کره زمین به ماشین خود را در صبح , شما این کار را انجام می دهند , می گوید داویدسن اشتباه است . [1111111111111111111111]  [total=-5.576] <<-14.000, -30.000, 0.000, -5.462, -0.762, -2.109, -5.184, -0.931, -2.430, -116.407, -45.249, -53.327, -34.813, -56.657, 15.998>> 
+Translation took 0.797 seconds
+Finished translating
+Translating: " Psychologically , when we get in the car and we can see our breath , we think the car needs to warm up . " . 
+
+Collecting options took 0.245 seconds
+Search took 1.128 seconds
+BEST TRANSLATION: " نظر روانی , وقتی که ما در ماشین و ما می توانیم نفس ما , ما فکر می کنیم که ماشین به نیاز دارد . " . [111111111111111111111111111]  [total=-6.149] <<-8.000, -28.000, 0.000, -8.058, -1.767, -1.677, -4.516, -3.338, -1.488, -128.514, -51.453, -64.023, -29.020, -39.149, 15.998>> 
+Translation took 1.133 seconds
+Finished translating
+Translating: But it doesn ' t . 
+
+Collecting options took 0.031 seconds
+Search took 0.146 seconds
+BEST TRANSLATION: اما اینطور نیست . [111111]  [total=-0.918] <<0.000, -4.000, 0.000, -0.929, 0.000, 0.000, -0.513, 0.000, 0.000, -14.465, -4.041, -20.300, -1.027, -8.089, 2.000>> 
+Translation took 0.147 seconds
+Finished translating
+Translating: " You might be cold in the car , but the engine isn't , " says Davidson . 
+
+Collecting options took 0.125 seconds
+Search took 0.648 seconds
+BEST TRANSLATION: " شما ممکن است در ماشین سرد , اما موتور , می گوید : " داویدسن نیست . [111111111111111111]  [total=-3.231] <<-18.000, -18.000, 0.000, -2.370, -1.089, -1.456, -4.249, -1.142, -1.994, -80.562, -16.956, -23.790, -16.733, -21.003, 9.999>> 
+Translation took 0.651 seconds
+Finished translating
+Translating: " It doesn't matter what temperature it is , 30 seconds is all you need . " . 
+
+Collecting options took 0.122 seconds
+Search took 0.677 seconds
+BEST TRANSLATION: " مهم نیست که چه دما , 30 ثانیه تمام چیزی است که نیاز داریم . " . [111111111111111111]  [total=-3.375] <<0.000, -18.000, 0.000, -7.299, 0.000, 0.000, -7.064, 0.000, 0.000, -78.775, -21.540, -37.788, -13.329, -31.337, 9.999>> 
+Translation took 0.679 seconds
+Finished translating
+Translating: 4 
+
+Collecting options took 0.012 seconds
+Search took 0.013 seconds
+BEST TRANSLATION: 4 [1]  [total=-0.438] <<0.000, -1.000, 0.000, -0.349, 0.000, 0.000, 0.000, 0.000, 0.000, -12.382, -0.696, -0.695, -0.509, -0.485, 1.000>> 
+Translation took 0.013 seconds
+Finished translating
+Translating: Servicing does help 
+
+Collecting options took 0.022 seconds
+Search took 0.027 seconds
+BEST TRANSLATION: سرویس کمک می کند [111]  [total=-1.558] <<0.000, -4.000, 0.000, -2.457, 0.000, 0.000, -1.609, 0.000, 0.000, -23.354, -13.303, -14.715, -2.639, -10.391, 2.000>> 
+Translation took 0.027 seconds
+Finished translating
+Translating: It may seem obvious , but making sure your car is in good shape can have a big effect on how much fuel you use . 
+
+Collecting options took 0.155 seconds
+Search took 0.919 seconds
+BEST TRANSLATION: ممکن است بدیهی به نظر برسد , اما مطمین است در ماشین شما خوب می تواند تاثیر بزرگی بر میزان سوخت استفاده کنید . [11111111111111111111111111]  [total=-6.183] <<-20.000, -24.000, 0.000, -5.454, -1.733, -2.557, -6.784, -2.600, -2.959, -101.402, -44.206, -66.966, -27.147, -46.292, 16.998>> 
+Translation took 0.924 seconds
+Finished translating
+Translating: Getting your car regularly serviced means it will be running as efficiently as possible , says Davidson . 
+
+Collecting options took 0.087 seconds
+Search took 0.515 seconds
+BEST TRANSLATION: برای رسیدن به ماشین شما به طور منظم سرویس به معنای ان است که به طور موثر خواهد بود که ممکن است , می گوید داویدسن . [111111111111111111]  [total=-6.249] <<-10.000, -27.000, 0.000, -6.794, 0.000, -1.350, -10.730, 0.000, -2.188, -110.594, -43.722, -54.874, -30.715, -57.189, 12.999>> 
+Translation took 0.517 seconds
+Finished translating
+Translating: " Service is really important , " Davidson says . 
+
+Collecting options took 0.038 seconds
+Search took 0.239 seconds
+BEST TRANSLATION: سرویس " واقعا مهم است , " داویدسن می گوید . [1111111111]  [total=-1.283] <<0.000, -11.000, 0.000, -4.911, 0.000, 0.000, -4.803, 0.000, 0.000, -51.160, -4.334, -8.903, -5.708, -11.406, 5.999>> 
+Translation took 0.240 seconds
+Finished translating
+Translating: " If your car's well-tuned , it will behave properly and won't eat fuel " . 
+
+Collecting options took 0.048 seconds
+Search took 0.398 seconds
+BEST TRANSLATION: " اگر شما well-tuned|UNK|UNK|UNK ماشین , درست و سوخت نمی خورند . " [1111111111111111]  [total=-104.058] <<-10.000, -13.000, -100.000, -6.412, -2.516, -1.214, -3.169, -1.051, -1.869, -68.926, -34.826, -44.771, -10.584, -16.235, 9.999>> 
+Translation took 0.400 seconds
+Finished translating
+Translating: 5 
+
+Collecting options took 0.003 seconds
+Search took 0.003 seconds
+BEST TRANSLATION: 5 [1]  [total=-0.443] <<0.000, -1.000, 0.000, -0.440, 0.000, 0.000, 0.000, 0.000, 0.000, -12.271, -0.784, -0.777, -0.530, -0.492, 1.000>> 
+Translation took 0.003 seconds
+Finished translating
+Translating: Try not to speed 
+
+Collecting options took 0.015 seconds
+Search took 0.050 seconds
+BEST TRANSLATION: سعی کنید به سرعت نیست [1111]  [total=-1.616] <<-4.000, -5.000, 0.000, -1.672, 0.000, -0.914, -0.895, 0.000, -1.043, -28.934, -7.634, -10.024, -7.326, -7.892, 4.000>> 
+Translation took 0.050 seconds
+Finished translating
+Translating: " It doesn't matter what you're driving , we all hit a wall at 93 km / h . 
+
+Collecting options took 0.056 seconds
+Search took 0.613 seconds
+BEST TRANSLATION: " مهم نیست که چه شما , همه ما به یک دیوار در 93 کیلومتر در ساعت . [1111111111111111111]  [total=-4.800] <<0.000, -18.000, 0.000, -8.789, 0.000, 0.000, -8.536, 0.000, 0.000, -88.023, -43.924, -55.801, -16.627, -30.345, 11.999>> 
+Translation took 0.615 seconds
+Finished translating
+Translating: Anything after that , you're burning so much fuel to push through that wall , says Davidson 
+
+Collecting options took 0.122 seconds
+Search took 0.507 seconds
+BEST TRANSLATION: هر چیزی که پس از ان , شما خیلی سوزاندن سوخت برای خود را از این دیوار , می گوید داویدسن [11111111111111111]  [total=-5.396] <<-6.000, -21.000, 0.000, -6.057, -3.219, -0.747, -5.503, -1.308, -1.192, -102.501, -34.053, -42.650, -26.512, -40.728, 11.999>> 
+Translation took 0.509 seconds
+Finished translating
+Translating: The faster you go , the more fuel you waste . 
+
+Collecting options took 0.057 seconds
+Search took 0.301 seconds
+BEST TRANSLATION: هرچه سریع‌تر بروید , شما بیشتر سوخت . [11111111111]  [total=-3.050] <<-6.000, -8.000, 0.000, -0.611, -1.609, -0.987, -3.045, -1.620, -1.022, -50.359, -18.958, -24.410, -5.453, -17.295, 4.999>> 
+Translation took 0.302 seconds
+Finished translating
+Translating: But Davidson knows that it's not a change many of us are likely to make , no matter how much we hate spending our money on gas 
+
+Collecting options took 0.182 seconds
+Search took 1.176 seconds
+BEST TRANSLATION: اما داویدسن می داند که این یک تغییر بسیاری از ما به احتمال زیاد , مهم نیست که چقدر پول ما را از هزینه ها در گاز [111111111111111111111111111]  [total=-6.449] <<-8.000, -27.000, 0.000, -9.924, 0.000, -1.258, -11.132, 0.000, -1.331, -115.963, -55.603, -71.061, -29.387, -43.750, 15.998>> 
+Translation took 1.180 seconds
+Finished translating
+Translating: " That's the hardest one . 
+
+Collecting options took 0.041 seconds
+Search took 0.151 seconds
+BEST TRANSLATION: " سخت‌کوش‌ترین است . [111111]  [total=-1.371] <<-6.000, -4.000, 0.000, -0.651, -0.889, -0.441, 0.000, -1.946, -0.991, -16.415, -16.450, -14.590, -8.662, -8.726, 4.000>> 
+Translation took 0.152 seconds
+Finished translating
+Translating: Nobody wants to give up speeding , " he says 
+
+Collecting options took 0.379 seconds
+Search took 0.646 seconds
+BEST TRANSLATION: هیچ کس نمی خواهد به سرعت به او می گوید : " [1111111111]  [total=-2.341] <<-8.000, -12.000, 0.000, -0.336, -2.197, -0.511, 0.000, -2.708, -0.588, -39.412, -23.709, -34.812, -10.793, -21.516, 4.000>> 
+Translation took 0.647 seconds
+Finished translating
+Translating: " We're all guilty of that . " . 
+
+Collecting options took 0.054 seconds
+Search took 0.328 seconds
+BEST TRANSLATION: " ما همه است . " . [111111111]  [total=-1.424] <<0.000, -7.000, 0.000, -5.622, 0.000, 0.000, -2.221, 0.000, 0.000, -26.000, -24.476, -23.105, -9.355, -7.749, 5.999>> 
+Translation took 0.329 seconds
+Finished translating
+Translating: With files from Lindsay Sample 
+
+Collecting options took 0.023 seconds
+Search took 0.058 seconds
+BEST TRANSLATION: با پرونده از لیندسی نمونه [11111]  [total=-2.423] <<0.000, -5.000, 0.000, -2.841, 0.000, 0.000, -2.443, 0.000, 0.000, -49.125, -12.521, -16.108, -2.621, -3.793, 4.000>> 
+Translation took 0.058 seconds
+Finished translating

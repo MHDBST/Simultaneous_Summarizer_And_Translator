@@ -1,0 +1,224 @@
+Translating: -------------------U.S.-China climate deal poses special challenge for G20-bound PM------------------ 
+
+Collecting options took 0.034 seconds
+Search took 0.172 seconds
+BEST TRANSLATION: -------------------U.S.-China|UNK|UNK|UNK اب و چالش های ویژه برای G20-bound|UNK|UNK|UNK می PM------------------|UNK|UNK|UNK [111111111]  [total=-303.283] <<-14.000, -10.000, -300.000, -1.609, -0.291, -0.577, -0.613, -0.108, -1.083, -55.924, -22.328, -25.947, -11.494, -14.826, 4.999>> 
+Translation took 0.174 seconds
+Finished translating
+Translating: Putin stations Russian warships off Australia's coast ahead of G20 . 
+
+Collecting options took 0.070 seconds
+Search took 0.245 seconds
+BEST TRANSLATION: پوتین های جنگی روسیه از سواحل استرالیا پیش از اجلاس . [11111111111]  [total=-4.365] <<-8.000, -11.000, 0.000, -4.200, -0.862, -1.176, -2.317, -1.249, -1.219, -72.380, -39.650, -35.417, -17.618, -14.331, 9.999>> 
+Translation took 0.246 seconds
+Finished translating
+Translating: He can continue , as he always has , to argue that the work to reduce carbon emissions must be done without damaging the fragile economic recovery . 
+
+Collecting options took 0.339 seconds
+Search took 1.292 seconds
+BEST TRANSLATION: او می تواند ادامه یابد , به عنوان او همیشه , به استدلال می کنند که این کار برای کاهش انتشار کربن , باید بدون اسیب رساندن به بهبود اقتصاد شکننده . [1111111111111111111111111111]  [total=-5.986] <<-8.000, -32.000, 0.000, -11.672, -0.619, -0.494, -10.434, -0.887, -0.879, -131.251, -36.590, -60.105, -28.175, -57.896, 15.998>> 
+Translation took 1.297 seconds
+Finished translating
+Translating: Australia's Tony Abbott and Canada's Stephen Harper in Ottawa in June 2014 . 
+
+Collecting options took 0.043 seconds
+Search took 0.317 seconds
+BEST TRANSLATION: تونی ابوت و استرالیا در اتاوا کانادا استفن هارپر , در ماه ژوین سال 2014 است . [1111111111111]  [total=-2.887] <<-18.000, -17.000, 0.000, -3.083, -0.497, -1.740, -6.070, -1.609, -1.334, -78.372, -11.442, -15.858, -10.413, -19.533, 8.999>> 
+Translation took 0.319 seconds
+Finished translating
+Translating: No fans of job-killing carbon taxes here 
+
+Collecting options took 0.067 seconds
+Search took 0.159 seconds
+BEST TRANSLATION: نه طرفداران مالیات بر کربن در اینجا [1111111]  [total=-2.672] <<-6.000, -7.000, 0.000, -2.339, 0.000, -1.360, -2.256, 0.000, -2.005, -48.118, -20.825, -20.532, -6.213, -6.548, 5.999>> 
+Translation took 0.160 seconds
+Finished translating
+Translating: ( Adrian Wyld / Canadian Press ) 
+
+Collecting options took 0.008 seconds
+Search took 0.088 seconds
+BEST TRANSLATION: ( ادریان Wyld|UNK|UNK|UNK / کانادایی ) [1111111]  [total=-101.999] <<0.000, -6.000, -100.000, -3.837, 0.000, 0.000, -2.781, 0.000, 0.000, -49.704, -10.878, -12.991, -2.537, -2.573, 4.999>> 
+Translation took 0.088 seconds
+Finished translating
+Translating: On that he has important supporters in Brisbane , including G20 chair Tony Abbott . 
+
+Collecting options took 0.118 seconds
+Search took 0.414 seconds
+BEST TRANSLATION: در ان او در بریسبین حامیان مهم است , از جمله کشورهای G20 صندلی تونی ابوت . [111111111111111]  [total=-4.300] <<-14.000, -17.000, 0.000, -7.006, -2.145, -1.007, -5.436, -1.637, -0.846, -102.227, -21.498, -21.664, -14.573, -23.241, 12.999>> 
+Translation took 0.415 seconds
+Finished translating
+Translating: Abbott was in Ottawa in June , when he and Harper both ridiculed efforts to put a price on emissions as a job-killing carbon tax . 
+
+Collecting options took 0.135 seconds
+Search took 0.762 seconds
+BEST TRANSLATION: ابوت در اتاوا در ماه ژوین , هنگامی که او و هار پر تلاش های هر دو را به قیمت را در انتشار گازهای گلخانه ای به عنوان یک مالیات بر کربن . [11111111111111111111111111]  [total=-7.181] <<-18.000, -33.000, 0.000, -8.636, -1.283, -3.424, -7.687, -0.918, -5.540, -155.108, -57.370, -63.662, -28.912, -44.933, 19.998>> 
+Translation took 0.766 seconds
+Finished translating
+Translating: The Australian PM has also refused repeated calls from European leaders and others to put climate change on the agenda this weekend , insisting the focus of the summit remain squarely on economic issues and the handful of priorities he's chosen , as if promoting the economy and protecting the environment are inherently contradictory . 
+
+Collecting options took 0.281 seconds
+Search took 2.098 seconds
+BEST TRANSLATION: نخست وزیر استرالیا نیز از تماس های مکرر از رهبران اروپا و دیگران را برای تغییرات اب و هوا را در دستور کار این اخر هفته , اصرار داشت که تمرکز می نشست مستقیما در مسایل اقتصادی و تعدادی از اولویت ها را انتخاب کرده است , که اگر ترویج اقتصاد و حفاظت از محیط زیست ذاتا متناقض است . [1111111111111111111111111111111111111111111111111111111]  [total=-13.471] <<-18.000, -60.000, 0.000, -18.354, -4.071, -3.033, -22.974, -4.046, -3.515, -261.489, -110.660, -142.612, -58.358, -98.207, 34.996>> 
+Translation took 2.108 seconds
+Finished translating
+Translating: But where Abbott is a blunt edge , Harper's crafting of Canada's message probably requires a finer touch . 
+
+Collecting options took 0.057 seconds
+Search took 0.400 seconds
+BEST TRANSLATION: اما جایی که ابوت است , یک پیام کانادا از صنایع هار احتمالا نیازمند یک کارگرپالایشگاه را لمس کند . [1111111111111111111]  [total=-7.511] <<-24.000, -20.000, 0.000, -6.864, -9.127, -0.955, -5.000, -9.839, -1.140, -124.619, -52.642, -50.341, -28.400, -33.196, 15.998>> 
+Translation took 0.402 seconds
+Finished translating
+Translating: Canada's economic future depends heavily on the energy sector , in particular continued development of Alberta's oil sands while selling the product in the U.S. 
+
+Collecting options took 0.190 seconds
+Search took 0.764 seconds
+BEST TRANSLATION: کانادا را برای اینده اقتصادی به شدت وابسته به بخش انرژی , به ویژه در توسعه بخش البرتای نفت فرازریگ‌زارهای در حالی که فروش محصول در ایالات متحده [1111111111111111111111111]  [total=-6.747] <<0.000, -28.000, 0.000, -11.702, 0.000, 0.000, -14.095, 0.000, 0.000, -137.639, -35.235, -56.386, -24.993, -47.344, 12.999>> 
+Translation took 0.767 seconds
+Finished translating
+Translating: and beyond 
+
+Collecting options took 0.020 seconds
+Search took 0.023 seconds
+BEST TRANSLATION: و فراتر از ان [11]  [total=-0.598] <<0.000, -4.000, 0.000, -0.452, 0.000, 0.000, 0.000, 0.000, 0.000, -19.923, -0.236, -2.810, -2.667, -6.423, 1.000>> 
+Translation took 0.023 seconds
+Finished translating
+Translating: Those efforts get a boost with the Republicans about to control both houses of Congress , and with their renewed drive to pass legislation to approve the controversial Keystone XL pipeline from Alberta to American refineries on the Gulf of Mexico . 
+
+Collecting options took 0.229 seconds
+Search took 1.372 seconds
+BEST TRANSLATION: این تلاش ها یک افزایش با جمهوری خواهان در مورد کنترل هر دو کنگره , و با تازه خود به تصویب قانون بحث برانگیز به تصویب Keystone|UNK|UNK|UNK 40 خط لوله از البرتا به پالایشگاه های امریکا در خلیج مکزیک است . [111111111111111111111111111111111111111111]  [total=-110.357] <<-12.000, -41.000, -100.000, -15.972, -0.359, -1.681, -15.973, -0.150, -2.080, -208.753, -76.304, -111.265, -31.925, -54.673, 25.997>> 
+Translation took 1.379 seconds
+Finished translating
+Translating: But the White House has hinted at a veto if Congress pushes ahead on Keystone , and Barack Obama has made climate change a priority of his second term , a factor that no doubt played a huge role in this week's deal with China's Xi Jinping . 
+
+Collecting options took 0.548 seconds
+Search took 2.091 seconds
+BEST TRANSLATION: اما کاخ سفید به ان اشاره کرده است که یک حق وتو اگر کنگره به جلو پیش روی Keystone|UNK|UNK|UNK , و باراک اوباما باعث شده است که تغییر اب و هوا یکی از اولویت های دوره ی دوم ریاست جمهوری او , یک عامل که بدون شک بازی نقش بزرگی در این هفته با Jinping|UNK|UNK|UNK کرانه چین . [111111111111111111111111111111111111111111111111]  [total=-211.224] <<-20.000, -58.000, -200.000, -15.647, -2.975, -1.745, -18.336, -2.432, -1.909, -254.595, -63.632, -108.861, -44.663, -99.123, 28.997>> 
+Translation took 2.099 seconds
+Finished translating
+Translating: Surprise ? 
+
+Collecting options took 0.007 seconds
+Search took 0.008 seconds
+BEST TRANSLATION: افلگیری ? [11]  [total=-0.618] <<0.000, -2.000, 0.000, -2.647, 0.000, 0.000, -0.511, 0.000, 0.000, -13.280, -1.719, -1.771, -2.848, -4.172, 2.000>> 
+Translation took 0.008 seconds
+Finished translating
+Translating: For the first time , China has agreed to cap its emissions - by 2030 at the latest - and to diversify its energy supply to include more non-fossil fuels . 
+
+Collecting options took 0.303 seconds
+Search took 1.254 seconds
+BEST TRANSLATION: برای اولین بار , چین , موافقت کرده است که تا سال 2030 - انتشار ان در اخرین - و تنوع بخشیدن به تامین انرژی خود را که شامل بیشتر غیر فسیلی باشد . [1111111111111111111111111111111]  [total=-7.369] <<-20.000, -34.000, 0.000, -8.063, -7.603, -1.169, -6.392, -6.677, -1.405, -158.669, -49.757, -69.917, -29.263, -53.538, 18.998>> 
+Translation took 1.259 seconds
+Finished translating
+Translating: In turn , Obama is promising the US. 
+
+Collecting options took 0.024 seconds
+Search took 0.198 seconds
+BEST TRANSLATION: در عوض , اوباما قول داده است که ایالات متحده [11111111]  [total=-1.621] <<0.000, -10.000, 0.000, -2.387, 0.000, 0.000, -4.473, 0.000, 0.000, -38.572, -14.712, -21.959, -5.645, -20.254, 4.999>> 
+Translation took 0.199 seconds
+Finished translating
+Translating: will reduce its emissions by up to 28 per cent below 2005 levels within the next decade , which is a much greater commitment than Canada's 
+
+Collecting options took 0.109 seconds
+Search took 0.891 seconds
+BEST TRANSLATION: انتشار گازهای گلخانه ای را کاهش خواهد داد تا 28 درصد کمتر از سال 2005 سطوح در دهه اینده , که یک تعهد بیشتر از کانادا [11111111111111111111111111]  [total=-6.902] <<-16.000, -26.000, 0.000, -7.020, -3.346, -1.482, -5.585, -4.016, -1.022, -118.200, -52.644, -72.946, -29.024, -43.686, 14.998>> 
+Translation took 0.895 seconds
+Finished translating
+Translating: For years , the Conservative government has tried to move in lockstep with the U.S. 
+
+Collecting options took 0.075 seconds
+Search took 0.511 seconds
+BEST TRANSLATION: برای سال ها , دولت محافظه کار تلاش دارد تا حرکت در قدم اهسته با امریکا [111111111111111]  [total=-4.159] <<0.000, -16.000, 0.000, -4.498, 0.000, 0.000, -4.736, 0.000, 0.000, -87.057, -19.090, -37.171, -12.968, -26.516, 6.999>> 
+Translation took 0.513 seconds
+Finished translating
+Translating: to reduce pollution 
+
+Collecting options took 0.011 seconds
+Search took 0.025 seconds
+BEST TRANSLATION: برای کاهش الودگی [111]  [total=-1.014] <<0.000, -3.000, 0.000, -2.625, 0.000, 0.000, -1.188, 0.000, 0.000, -23.273, -2.398, -4.416, -1.800, -3.307, 2.000>> 
+Translation took 0.025 seconds
+Finished translating
+Translating: But , unlike the U.S. , Canada has yet to bring in standards for its oil and gas sector . 
+
+Collecting options took 0.103 seconds
+Search took 0.748 seconds
+BEST TRANSLATION: اما , بر خلاف ایالات متحده , کانادا , هنوز در تلاشند تا استانداردهای مربوط به بخش نفت و گاز است . [11111111111111111111]  [total=-3.235] <<-10.000, -22.000, 0.000, -4.696, -0.511, -0.494, -4.052, -0.175, -1.609, -76.609, -30.351, -39.735, -20.295, -41.957, 10.999>> 
+Translation took 0.752 seconds
+Finished translating
+Translating: And environmentalists are unanimous in saying Canada won't make the more modest emission reduction targets ( 17 per cent below 2005 levels by 2020 ) that the US. 
+
+Collecting options took 0.132 seconds
+Search took 0.859 seconds
+BEST TRANSLATION: و طرفداران محیط زیست متفق القول هستند که در کانادا بیشتری را به کاهش انتشار اهداف ( 17 درصد پایین تر از سطح سال 2005 تا سال 2020 ) که ایالات متحده [1111111111111111111111111111]  [total=-8.331] <<-22.000, -32.000, 0.000, -4.782, -4.681, -2.220, -10.158, -3.335, -3.948, -156.233, -66.200, -86.427, -29.915, -49.539, 20.998>> 
+Translation took 0.864 seconds
+Finished translating
+Translating: has now trumped 
+
+Collecting options took 0.059 seconds
+Search took 0.068 seconds
+BEST TRANSLATION: اکنون گذاشت [111]  [total=-1.752] <<0.000, -2.000, 0.000, -2.162, 0.000, 0.000, -1.299, 0.000, 0.000, -19.357, -14.758, -16.005, -4.387, -5.712, 2.000>> 
+Translation took 0.068 seconds
+Finished translating
+Translating: Earlier this month , French President Francois Hollande chided Harper about Canada's record at a news conference in Ottawa . 
+
+Collecting options took 0.074 seconds
+Search took 0.658 seconds
+BEST TRANSLATION: در اوایل این ماه , رییس جمهور فرانسه , فرانسوا هولاند , در مورد سرزنش هار پر سابقه کانادا در یک کنفرانس خبری در اتاوا . [11111111111111111111]  [total=-3.995] <<-10.000, -26.000, 0.000, -2.593, -1.046, -1.485, -4.209, -0.724, -1.958, -119.995, -23.052, -34.348, -16.651, -33.246, 11.999>> 
+Translation took 0.661 seconds
+Finished translating
+Translating: This US.-China deal - between the two biggest polluters on the plant - sets the bar even higher . 
+
+Collecting options took 0.106 seconds
+Search took 0.538 seconds
+BEST TRANSLATION: این US.-China|UNK|UNK|UNK معامله - بین این دو الاینده‌‌ساز بزرگ در نیروگاه - مجموعه بار حتی بیشتر است . [1111111111111111111]  [total=-105.228] <<0.000, -18.000, -100.000, -9.454, 0.000, 0.000, -12.440, 0.000, 0.000, -110.283, -27.702, -32.469, -18.944, -28.257, 12.999>> 
+Translation took 0.541 seconds
+Finished translating
+Translating: So what can Harper do ? The prime minister surprised many of his most persistent critics at the 2008 G8 summit in Muskoka by proposing the maternal and child health initiative , which has grown to a multi-billion commitment to reduce the staggering mortality rate among new mothers and infants in the developing world . 
+
+Collecting options took 0.334 seconds
+Search took 2.185 seconds
+BEST TRANSLATION: پس چه چیزی می تواند هارپر ? نخست وزیر تعجب بسیاری از منتقدان دایمی خود را در سال 2008 در نشست G8 Muskoka|UNK|UNK|UNK با ارایه ی این طرح سلامت مادران و کودکان دارد , که به یک میلیارد و تعهد به کاهش نرخ مرگ و میر در میان تازه مادران و نوزادان در جهان در حال توسعه است . [1111111111111111111111111111111111111111111111111111111]  [total=-112.305] <<-48.000, -59.000, -100.000, -14.750, -5.074, -4.816, -12.738, -6.009, -8.006, -233.687, -112.014, -133.224, -58.697, -92.262, 34.996>> 
+Translation took 2.194 seconds
+Finished translating
+Translating: That program remained true to Conservative principles . 
+
+Collecting options took 0.061 seconds
+Search took 0.211 seconds
+BEST TRANSLATION: این برنامه به اصول محافظه کار باقی ماند . [11111111]  [total=-1.790] <<-12.000, -9.000, 0.000, -1.721, -0.481, -1.335, -0.829, -0.587, -1.773, -35.151, -22.515, -24.088, -8.009, -9.883, 6.999>> 
+Translation took 0.212 seconds
+Finished translating
+Translating: No Canadian money would be used for abortions , progress would be monitored 
+
+Collecting options took 0.056 seconds
+Search took 0.347 seconds
+BEST TRANSLATION: نه پول کانادایی برای سقط جنین , پیشرفت نظارت خواهد بود [1111111111111]  [total=-4.165] <<-9.000, -11.000, 0.000, -1.637, -1.442, -1.343, -2.269, -2.170, -2.899, -71.347, -27.346, -34.949, -11.298, -14.913, 7.999>> 
+Translation took 0.349 seconds
+Finished translating
+Translating: The UN would be accountable for results 
+
+Collecting options took 0.023 seconds
+Search took 0.156 seconds
+BEST TRANSLATION: سازمان ملل متحد برای نتایج پاسخگو خواهد بود [1111111]  [total=-2.001] <<-9.000, -8.000, 0.000, -2.479, -0.939, -0.538, -0.613, -0.588, -1.360, -40.283, -10.710, -12.887, -8.462, -13.997, 4.999>> 
+Translation took 0.157 seconds
+Finished translating
+Translating: As for climate change , it isn't on the agenda in Brisbane this weekend , but it's certainly in the news . 
+
+Collecting options took 0.101 seconds
+Search took 0.787 seconds
+BEST TRANSLATION: همانطور که برای تغییر اب و هوا , ان را در دستور کار این اخر هفته در بریسبین است , اما قطعا در اخبار . [1111111111111111111111]  [total=-4.575] <<-14.000, -25.000, 0.000, -6.197, -3.807, -1.392, -5.437, -3.757, -2.633, -101.130, -31.359, -46.729, -22.781, -35.838, 12.999>> 
+Translation took 0.790 seconds
+Finished translating
+Translating: There will be pressure from leaders and from protesters outside the conference setting for Canada to step up its commitment 
+
+Collecting options took 0.126 seconds
+Search took 0.655 seconds
+BEST TRANSLATION: رهبران از فشار وجود خواهد داشت و از معترضین در خارج از این کنفرانس برای کانادا به تعهد خود را [11111111111111111111]  [total=-5.126] <<-23.000, -20.000, 0.000, -3.171, -8.454, -1.283, -4.225, -5.143, -0.779, -103.914, -35.088, -47.845, -11.475, -27.122, 11.999>> 
+Translation took 0.657 seconds
+Finished translating
+Translating: Perhaps it's a chance for Harper to surprise again and set out what Canada can do , while remaining consistent with those Conservative values . 
+
+Collecting options took 0.288 seconds
+Search took 0.972 seconds
+BEST TRANSLATION: شاید این یک فرصت برای هارپر دوباره به تعجب و چه کانادا می تواند انجام دهد , در حالی که باقی مانده سازگار با ارزش های محافظه کار . [1111111111111111111111111]  [total=-6.672] <<-10.000, -29.000, 0.000, -8.461, -0.481, -1.283, -11.570, -0.263, -2.877, -142.419, -44.803, -60.367, -26.287, -44.691, 17.998>> 
+Translation took 0.976 seconds
+Finished translating

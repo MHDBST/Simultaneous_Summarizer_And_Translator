@@ -1,0 +1,161 @@
+Translating: --------------BlackBerry partners with Samsung on mobile security------------- 
+
+Collecting options took 0.016 seconds
+Search took 0.094 seconds
+BEST TRANSLATION: --------------BlackBerry|UNK|UNK|UNK شرکای با سامسونگ موبایل security-------------|UNK|UNK|UNK [1111111]  [total=-202.224] <<0.000, -6.000, -200.000, -2.389, 0.000, 0.000, -2.556, 0.000, 0.000, -52.529, -6.946, -8.281, -3.717, -4.083, 3.000>> 
+Translation took 0.094 seconds
+Finished translating
+Translating: BlackBerry partners with Samsung on mobile security . 
+
+Collecting options took 0.017 seconds
+Search took 0.135 seconds
+BEST TRANSLATION: شرکای بلک بری با سامسونگ موبایل امنیت . [11111111]  [total=-2.896] <<-4.000, -8.000, 0.000, -2.389, -1.466, -0.500, -1.698, -0.185, -0.956, -64.944, -11.144, -12.752, -7.968, -7.931, 5.999>> 
+Translation took 0.136 seconds
+Finished translating
+Translating: CBC NewsPosted : Nov 13 , 2014 1:06 PM ETLast Updated : Nov 13 , 2014 7:59 PM ET . 
+
+Collecting options took 0.027 seconds
+Search took 0.339 seconds
+BEST TRANSLATION: NewsPosted|UNK|UNK|UNK CBC گفت : 13 نوامبر 2014 نخست وزیر 1:06|UNK|UNK|UNK ETLast|UNK|UNK|UNK Updated|UNK|UNK|UNK : 13 نوامبر تا سال 2014 , 7:59|UNK|UNK|UNK نخست وزیر پخش می شود . [11111111111111111111]  [total=-506.170] <<-20.000, -26.000, -500.000, -2.297, -5.767, -3.255, -1.880, -5.156, -6.537, -135.190, -35.869, -37.795, -21.613, -34.909, 12.999>> 
+Translation took 0.341 seconds
+Finished translating
+Translating: BlackBerry reports $207M US loss in 2nd quarter 
+
+Collecting options took 0.038 seconds
+Search took 0.140 seconds
+BEST TRANSLATION: $207M|UNK|UNK|UNK ایالات متحده گزارش بلک بری در سه ماهه دوم [11111111]  [total=-102.899] <<-13.000, -10.000, -100.000, -1.697, -2.631, -0.739, 0.000, -0.971, -1.293, -53.592, -24.403, -24.837, -10.293, -13.221, 5.999>> 
+Translation took 0.141 seconds
+Finished translating
+Translating: CEO John Chen outlined BlackBerry's latest security technology on Thursday , the same day the Canadian smartphone maker announced a deal with Samsung focusing on mobile security . 
+
+Collecting options took 0.081 seconds
+Search took 0.737 seconds
+BEST TRANSLATION: مدیر عامل جان چن BlackBerry's|UNK|UNK|UNK مطرح شده است , اخرین تکنولوژی امنیت در روز پنج شنبه , همان روز اعلام کرد یک تلفن هوشمند کانادایی سازنده با سامسونگ تمرکز بر روی امنیت تلفن همراه است . [1111111111111111111111111111]  [total=-108.974] <<-20.000, -36.000, -100.000, -6.751, -2.628, -3.117, -6.941, -1.684, -3.988, -195.097, -36.100, -57.811, -33.834, -54.544, 18.998>> 
+Translation took 0.741 seconds
+Finished translating
+Translating: ( Jonathan Drake / Bloomberg News ) 
+
+Collecting options took 0.012 seconds
+Search took 0.100 seconds
+BEST TRANSLATION: ( جاناتان دریک / بلومبرگ نیوز ) [1111111]  [total=-1.968] <<0.000, -7.000, 0.000, -2.325, 0.000, 0.000, -2.955, 0.000, 0.000, -63.864, -4.933, -5.324, -3.375, -3.902, 6.999>> 
+Translation took 0.101 seconds
+Finished translating
+Translating: Waterloo , Ont . -based BlackBerry has made a deal with Samsung that will offer BlackBerry's mobile security on Samsung's Android-powered devices . 
+
+Collecting options took 0.058 seconds
+Search took 0.460 seconds
+BEST TRANSLATION: واترلو , دچارند . امریکایی بلک بری باعث شده است که یک معامله با شرکت سامسونگ ارایه خواهد کرد که BlackBerry's|UNK|UNK|UNK امنیت موبایل Samsung's|UNK|UNK|UNK در دستگاه های Android-powered|UNK|UNK|UNK . [11111111111111111111111]  [total=-307.851] <<-14.000, -29.000, -300.000, -11.603, -5.944, -0.672, -7.038, -2.868, -1.921, -171.729, -31.941, -40.080, -26.905, -42.439, 14.998>> 
+Translation took 0.463 seconds
+Finished translating
+Translating: As part of the deal , customers with Android smartphones like the Galaxy line of Samsung , which is based in South Korea , will have access to software that brings BlackBerry's mobile security technology . 
+
+Collecting options took 0.181 seconds
+Search took 1.237 seconds
+BEST TRANSLATION: به عنوان بخشی از معامله , مشتریان با اندروید گوشی های هوشمند مانند Galaxy|UNK|UNK|UNK خط سامسونگ , است که در کره جنوبی , دسترسی به نرم افزاری که BlackBerry's|UNK|UNK|UNK تکنولوژی امنیت تلفن همراه به ارمغان می اورد . [111111111111111111111111111111111111]  [total=-208.460] <<-12.000, -38.000, -200.000, -9.568, -0.515, -0.988, -6.130, -1.609, -0.942, -206.098, -39.246, -66.202, -25.794, -50.976, 16.998>> 
+Translation took 1.243 seconds
+Finished translating
+Translating: The news comes the same day the Canadian smartphone maker unveiled its latest software -‌ BlackBerry Enterprise Service 12 or BES12 . 
+
+Collecting options took 0.048 seconds
+Search took 0.562 seconds
+BEST TRANSLATION: این خبر همان روز سازنده تلفن های هوشمند کانادایی پرده اخرین نرم افزار -‌|UNK|UNK|UNK بلک بری خدمات سرمایه گذاری 12 یا BES12|UNK|UNK|UNK . [1111111111111111111111]  [total=-207.579] <<-12.000, -23.000, -200.000, -5.980, -2.355, -1.839, -5.942, -3.244, -2.336, -151.816, -44.371, -54.063, -19.930, -29.055, 14.998>> 
+Translation took 0.565 seconds
+Finished translating
+Translating: BlackBerry's latest device , The Passport 
+
+Collecting options took 0.018 seconds
+Search took 0.082 seconds
+BEST TRANSLATION: BlackBerry's|UNK|UNK|UNK اخرین دستگاه , اداره ی گذرنامه [111111]  [total=-102.313] <<0.000, -7.000, -100.000, -2.601, 0.000, 0.000, -0.793, 0.000, 0.000, -48.245, -7.833, -13.318, -4.895, -14.904, 3.000>> 
+Translation took 0.082 seconds
+Finished translating
+Translating: The technology allows companies and enterprise customers to manage older model BlackBerrys alongside newer BB10 versions - but also work seamlessly with devices from competitors like Microsoft , Google and Apple . 
+
+Collecting options took 0.122 seconds
+Search took 0.831 seconds
+BEST TRANSLATION: این فناوری به شرکت ها امکان می دهد و مشتریان سرمایه گذاری برای مدیریت BlackBerrys|UNK|UNK|UNK مدل قدیمی تر در نسخه های BB10|UNK|UNK|UNK جدیدتر - اما همچنین به کار با دستگاه ها از رقبا مانند مایکروسافت , گوگل و اپل است . [11111111111111111111111111111111]  [total=-209.680] <<-22.000, -41.000, -200.000, -7.221, -5.271, -2.334, -7.690, -2.992, -5.356, -228.629, -45.133, -67.259, -25.890, -58.657, 20.998>> 
+Translation took 0.836 seconds
+Finished translating
+Translating: It will be available on Rogers in Canada and Vodafone in the U.K. 
+
+Collecting options took 0.038 seconds
+Search took 0.334 seconds
+BEST TRANSLATION: در دسترس خواهد بود در راجرز در کانادا و وودافون در انگلستان [1111111111111]  [total=-3.222] <<-8.000, -12.000, 0.000, -3.062, -0.943, -0.777, -3.907, -0.811, -0.065, -74.377, -17.772, -22.689, -8.338, -13.728, 7.999>> 
+Translation took 0.336 seconds
+Finished translating
+Translating: at launch , but other carriers may follow 
+
+Collecting options took 0.025 seconds
+Search took 0.181 seconds
+BEST TRANSLATION: در راه اندازی , اما قاطرچیان دیگر ممکن است [11111111]  [total=-2.474] <<-4.000, -9.000, 0.000, -2.216, -0.873, -0.704, -1.248, -2.565, -1.009, -46.105, -17.660, -21.919, -10.930, -14.957, 5.999>> 
+Translation took 0.182 seconds
+Finished translating
+Translating: Under the agreement , business customers next year will have access to software on Samsung Galaxy smartphones and tablets that is linked with BlackBerry's new mobile security software known as BlackBerry Enterprise Service 12 , BlackBerry executive John Sims said in a statement . 
+
+Collecting options took 0.148 seconds
+Search took 1.283 seconds
+BEST TRANSLATION: بر اساس این توافقنامه , کسب و کار مشتریان در سال اینده , دسترسی به نرم افزار در سامسونگ Galaxy|UNK|UNK|UNK گوشی های هوشمند و لوحه‌های مرتبط است که با BlackBerry's|UNK|UNK|UNK نرم افزار امنیتی جدید تلفن همراه به خدمات سرمایه گذاری بلک بری , 12 , بلک بری اجرایی جان سیمز در بیانیه ای گفت . [11111111111111111111111111111111111111111111]  [total=-212.429] <<-24.000, -55.000, -200.000, -14.575, -5.395, -2.935, -13.648, -6.510, -3.304, -294.479, -45.152, -86.676, -35.911, -77.303, 26.997>> 
+Translation took 1.290 seconds
+Finished translating
+Translating: The deal grafts BlackBerry's market-leading reputation for security on to Samsung's mobile security technology , which is called Knox . 
+
+Collecting options took 0.070 seconds
+Search took 0.451 seconds
+BEST TRANSLATION: این معامله BlackBerry's|UNK|UNK|UNK پیوند market-leading|UNK|UNK|UNK اعتبار برای امنیت در Samsung's|UNK|UNK|UNK تلفن همراه به تکنولوژی امنیت , که فیلمهای ناکس نامیده می شود . [11111111111111111111]  [total=-305.644] <<-16.000, -23.000, -300.000, -5.475, -3.622, -1.619, -1.677, -1.609, -2.999, -131.334, -25.618, -32.924, -17.152, -32.504, 11.999>> 
+Translation took 0.454 seconds
+Finished translating
+Translating: BlackBerry's shares gained more than seven per cent on the news , closing at $13.48 on the TSX on Thursday afternoon . 
+
+Collecting options took 0.066 seconds
+Search took 0.625 seconds
+BEST TRANSLATION: BlackBerry's|UNK|UNK|UNK سهام به بیش از هفت درصد در اخبار , در $13.48|UNK|UNK|UNK TSX|UNK|UNK|UNK در روز پنج شنبه بعد از ظهر . [1111111111111111111111]  [total=-304.541] <<-6.000, -21.000, -300.000, -8.522, -4.391, -0.253, -10.389, 0.000, -0.646, -92.381, -41.042, -52.932, -15.308, -25.223, 10.999>> 
+Translation took 0.628 seconds
+Finished translating
+Translating: Peter Misek , a venture partner with DN Capital , says Chen has taken a direction that will appeal to the enterprise market . 
+
+Collecting options took 0.095 seconds
+Search took 0.620 seconds
+BEST TRANSLATION: پیتر Misek|UNK|UNK|UNK , یک شریک سرمایه گذاری با دی ان پایتخت , می گوید چن جهت است که به بازار سرمایه گذاری . [111111111111111111111111]  [total=-106.565] <<-16.000, -23.000, -100.000, -6.418, -4.430, -1.945, -5.226, -2.023, -5.930, -125.869, -54.024, -66.365, -20.346, -28.356, 17.998>> 
+Translation took 0.623 seconds
+Finished translating
+Translating: What's really important about it is that he's actually delivering what enterprises are looking for - so they want secure laptops and secure smartphones , they want security on any computer device that's not connected in the corporate server , he said in an interview with CBC's The Exchange with Amanda Lang 
+
+Collecting options took 0.370 seconds
+Search took 1.888 seconds
+BEST TRANSLATION: چیزی که واقعا مهم این است که او در واقع اقباض چه شرکت ها به دنبال ان هستند - انها می خواهند امنیت لپ تاپ و امنیت گوشی های هوشمند , انها می خواهند که امنیت در هر دستگاه کامپیوتر است که به این شرکت , سرور گفت : او در یک مصاحبه با CBC's|UNK|UNK|UNK بورس با اماندا لانگ [1111111111111111111111111111111111111111111111111111]  [total=-115.419] <<-12.000, -59.000, -100.000, -18.198, -6.596, -2.738, -22.943, -7.926, -3.412, -287.220, -109.485, -135.654, -61.705, -104.965, 32.997>> 
+Translation took 1.901 seconds
+Finished translating
+Translating: The deal with Samsung is also a huge step forward as BlackBerry has come to realize they are going need to support all the operating systems , Misek said . 
+
+Collecting options took 0.214 seconds
+Search took 1.051 seconds
+BEST TRANSLATION: این معامله با سامسونگ همچنین یک گام به جلو امده است که بلک بری به انها نیاز به حمایت از سیستم های عامل , Misek|UNK|UNK|UNK گفت . [111111111111111111111111111111]  [total=-107.272] <<-10.000, -27.000, -100.000, -11.207, -0.977, -0.795, -10.569, -1.146, -1.795, -124.731, -61.620, -80.663, -31.701, -38.484, 16.998>> 
+Translation took 1.056 seconds
+Finished translating
+Translating: The news comes as the company is in the midst of a turnaround plan , led by CEO John Chen . 
+
+Collecting options took 0.204 seconds
+Search took 0.835 seconds
+BEST TRANSLATION: این خبر را به عنوان شرکت در میان یک طرح می شوند , که توسط مدیر عامل جان چن . [111111111111111111111]  [total=-5.518] <<-4.000, -20.000, 0.000, -7.638, -0.511, -0.952, -7.919, -0.624, -1.171, -97.561, -46.613, -59.688, -22.521, -33.452, 13.999>> 
+Translation took 0.838 seconds
+Finished translating
+Translating: Next year is about growth , Chen said in his speech announcing BES12 
+
+Collecting options took 0.071 seconds
+Search took 0.408 seconds
+BEST TRANSLATION: سال اینده در مورد رشد است , چن در سخنرانی خود گفت اعلام BES12|UNK|UNK|UNK [1111111111111]  [total=-103.069] <<-6.000, -14.000, -100.000, -2.117, -1.144, -1.086, -2.837, -1.609, -0.571, -79.340, -15.658, -22.586, -6.614, -16.022, 6.999>> 
+Translation took 0.410 seconds
+Finished translating
+Translating: We're going to focus on growing not only the top line , we're going to focus on growing the profit . but you've got to give us a little bit of time to get there 
+
+Collecting options took 0.271 seconds
+Search took 1.566 seconds
+BEST TRANSLATION: ما قصد داریم به تمرکز بر روی رشد نه تنها خط بالا , ما قصد داریم به تمرکز بر روی رشد سود . اما شما باید به ما یک وقت کمی برای رسیدن به انجا [11111111111111111111111111111111111]  [total=-8.846] <<-4.000, -35.000, 0.000, -15.368, -1.963, -0.892, -15.123, -0.478, -0.814, -164.432, -44.671, -77.040, -35.049, -67.668, 17.998>> 
+Translation took 1.572 seconds
+Finished translating
+Translating: With files from The Canadian Press 
+
+Collecting options took 0.012 seconds
+Search took 0.102 seconds
+BEST TRANSLATION: با این پرونده از [111111]  [total=-2.403] <<-7.000, -4.000, 0.000, -0.470, -1.609, -0.511, 0.000, -1.609, -0.699, -24.123, -20.193, -36.662, -2.573, -4.731, 3.000>> 
+Translation took 0.102 seconds
+Finished translating
